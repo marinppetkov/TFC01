@@ -45,3 +45,7 @@ git commit -m "commiting new changes"
 ## Conversations
 During conversation you can triger notification to respective teams or person by mentioning their teams or names like this `@github/teamname` `@username` <br>
 Referencing to issues or PR is made by typing # eg `#123` 
+
+## Hidden comments
+\<!-- example -->
+ <!-- This is hidden comment for internal use -->
