@@ -47,5 +47,7 @@ During conversation you can triger notification to respective teams or person by
 Referencing to issues or PR is made by typing # eg `#123` 
 
 ## Hidden comments
-\<!-- this line is ignored with \. Next lines are hidden -->
+\<!-- sample text -->[^1]
  <!-- This is hidden comment for internal use -->
+
+[^1]: The first line here is ignored with \\ so this text is visible
