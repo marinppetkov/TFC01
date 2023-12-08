@@ -19,6 +19,6 @@ git commit -m "commiting new changes"
 - This [link](https://aws.amazon.com/) redirect us to AWS ☁️<br>
 - This [link](https://azure.microsoft.com/en-us) redirect us to Azure ☁️<br>
 - This [link](https://cloud.google.com/) redirect us to GCP ☁️<br>
-
+![main cloud providers](/images/aws-azure-google.png)
 > [!WARNING]
 > Cloud consumption comes at a cost 
