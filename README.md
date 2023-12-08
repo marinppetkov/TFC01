@@ -32,6 +32,11 @@ git commit -m "commiting new changes"
     2. Cloud Stroage
     3. Container Engine
 
+AWS, GCP and Azure are using the following Hypervisors:
+1. XenServer 
+1. KVM
+1. Hyper-V
+
 ![main cloud providers](/images/aws-azure-google.png)[^1]
 
 - [x] Plan
