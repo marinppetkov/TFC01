@@ -34,7 +34,6 @@ git commit -m "commiting new changes"
 
 ![main cloud providers](/images/aws-azure-google.png)
 
-Plan Prepeare Monitor evaluate
 - [x] Plan
 - [ ] Prepare
 - [ ] Monitor
