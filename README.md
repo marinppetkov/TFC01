@@ -55,5 +55,8 @@ Referencing to issues or PR is made by typing # eg `#123`
 \<!-- sample text -->[^2]
  <!-- This is hidden comment for internal use -->
 
+### Additional stuffs
+**Adding new line** 
+
 [^1]: Image is located in /images
 [^2]: This line is ignored with \\ so this text is visible
