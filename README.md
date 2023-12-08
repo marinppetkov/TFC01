@@ -33,5 +33,12 @@ git commit -m "commiting new changes"
     3. Container Engine
 
 ![main cloud providers](/images/aws-azure-google.png)
+
+Plan Prepeare Monitor evaluate
+- [x] Plan
+- [ ] Prepare
+- [ ] Monitor
+- [ ] Evaluate
+
 > [!WARNING]
 > Cloud consumption comes at a cost 
