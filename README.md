@@ -17,8 +17,21 @@ git commit -m "commiting new changes"
 ```
 ## Main public clouds
 - This [link](https://aws.amazon.com/) redirect us to AWS ☁️<br>
+  - some services
+    1. EC2 Instance
+    2. S3
+    3. ECS
 - This [link](https://azure.microsoft.com/en-us) redirect us to Azure ☁️<br>
+  - some services
+    1. Virtual machine
+    2. Blob Storage
+    3. Container Service 
 - This [link](https://cloud.google.com/) redirect us to GCP ☁️<br>
+  - some services
+    1. Compute Engine VMs
+    2. Cloud Stroage
+    3. Container Engine
+
 ![main cloud providers](/images/aws-azure-google.png)
 > [!WARNING]
 > Cloud consumption comes at a cost 
