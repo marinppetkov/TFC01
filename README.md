@@ -41,4 +41,8 @@ Plan Prepeare Monitor evaluate
 - [ ] Evaluate
 
 > [!WARNING]
-> Cloud consumption comes at a cost 
+> Cloud consumption comes at a cost
+
+## Conversations
+During conversation you can triger notification to respective teams or person by mentioning their teams or names like this `@github/teamname` `@username` <br>
+Referencing to issues or PR is made by typing # eg `#123`
