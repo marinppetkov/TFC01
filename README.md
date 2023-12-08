@@ -32,7 +32,7 @@ git commit -m "commiting new changes"
     2. Cloud Stroage
     3. Container Engine
 
-![main cloud providers](/images/aws-azure-google.png)
+![main cloud providers](/images/aws-azure-google.png)[^1]
 
 - [x] Plan
 - [ ] Prepare
@@ -47,7 +47,8 @@ During conversation you can triger notification to respective teams or person by
 Referencing to issues or PR is made by typing # eg `#123` 
 
 ## Hidden comments
-\<!-- sample text -->[^1]
+\<!-- sample text -->[^2]
  <!-- This is hidden comment for internal use -->
 
-[^1]: The first line here is ignored with \\ so this text is visible
+[^1]: Image is located in /images
+[^2]: The first line here is ignored with \\ so this text is visible
